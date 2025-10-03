@@ -28,26 +28,30 @@ I built this Sorting Visualizer web application to:
 ---
 
 ## 🔢 Algorithms Implemented
-This application supports the following sorting algorithms:
 
-1. 🫧 Bubble Sort  
-2. 📥 Insertion Sort  
-3. 🔍 Selection Sort  
-4. 🔗 Merge Sort  
-5. ⚡ Quick Sort  
+This application currently supports the following sorting algorithms, each visualized step by step:
 
+1. 🫧 **Bubble Sort** – Repeatedly swaps adjacent elements to sort the array.  
+2. 📥 **Insertion Sort** – Builds the sorted array one element at a time.  
+3. 🔍 **Selection Sort** – Selects the minimum element and places it at the correct position.  
+4. 🔗 **Merge Sort** – Divides the array and merges sorted subarrays efficiently.  
+5. ⚡ **Quick Sort** – Uses divide-and-conquer with a pivot for fast sorting.
 ---
 
 ## 🛠 Tech Stack
-- *HTML5* – structure of the web application  
-- *CSS3* – styling and animations  
-- *JavaScript (ES6+)* – logic and algorithm visualization  
+
+The **Sorting Algo Visualizer App** is built using the following technologies:
+
+- **HTML5** – Provides the structure and semantic layout of the web application.  
+- **CSS3** – Handles styling, animations, and responsive design.  
+- **JavaScript (ES6+)** – Implements the sorting algorithms and dynamic visualization logic.
 
 ---
 
 ## 📷 Screenshots
-![App Screenshot](assets/img1.png)
 ![App Screenshot](assets/img2.png)
+![App Screenshot](assets/img1.png)
+
 
 
 
@@ -59,11 +63,3 @@ This application supports the following sorting algorithms:
 3. Watch the bars being sorted step by step.  
 4. Adjust array size and speed (if features available).  
 
----
-
-## ⚙ Installation (Run Locally)
-```bash
-# Clone the repository
-git clone https://github.com/your-username/sorting-visualizer.git
-
-# Open index.html in your browser
