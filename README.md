@@ -6,12 +6,16 @@ It helps beginners understand how sorting works by providing an interactive and 
 ---
 
 ## 🚀 Live Demo
-🔗 [Sorting Visualizer](your-live-link-here)  
+Check out the **Sorting Algo Visualizer App** live:
+
+🔗 [Live Demo](https://vikas-singh-dev.github.io/Sorting-Algo-Visualizer-App/)
 
 ---
 
 ## 📂 Source Code
-🔗 [GitHub Repository](your-code-link-here)  
+The full project is available on GitHub.  
+Feel free to **clone, explore, and contribute**:
+🔗 [GitHub Repository](git@github.com:Vikas-Singh-dev/Sorting-Algo-Visualizer-App.git)  
 
 ---
 
