@@ -8,14 +8,14 @@ It helps beginners understand how sorting works by providing an interactive and 
 ## 🚀 Live Demo
 Check out the **Sorting Algo Visualizer App** live:
 
-🔗 [Live Demo](https://vikas-singh-dev.github.io/Sorting-Algo-Visualizer-App/)
+🔗 [Live Demo](https://sorting-algo-visualizer-app-uci4.vercel.app/)
 
 ---
 
 ## 📂 Source Code
 The full project is available on GitHub.  
 Feel free to **clone, explore, and contribute**:
-🔗 [GitHub Repository](git@github.com:Vikas-Singh-dev/Sorting-Algo-Visualizer-App.git)  
+🔗 [GitHub Repository](git@github.com:Vikas-Singh-dev/)  
 
 ---
 
