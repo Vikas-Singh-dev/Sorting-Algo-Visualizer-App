@@ -15,7 +15,7 @@ Check out the **Sorting Algo Visualizer App** live:
 ## 📂 Source Code
 The full project is available on GitHub.  
 Feel free to **clone, explore, and contribute**:
-🔗 [GitHub Repository](git@github.com:Vikas-Singh-dev/)  
+🔗 [View Source on GitHub](https://github.com/your-username/Sorting-Algo-Visualizer-App)
 
 ---
 
