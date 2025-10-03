@@ -68,7 +68,7 @@ body {
 
 /* Sorting array container */
 .sorting-area {
-    margin: 30px auto;
+    margin: 20px auto;
     border: 2px solid #0d6efd;
     border-radius: 10px;
     display: flex;
@@ -189,4 +189,5 @@ body {
     .footer {
         margin: 0;
     }
+
 }
