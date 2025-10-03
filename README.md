@@ -42,7 +42,10 @@ This application supports the following sorting algorithms:
 ---
 
 ## 📷 Screenshots
-(Add screenshots of your project here for better presentation.)
+![App Screenshot](assets/img1.png)
+![App Screenshot](assets/img2.png)
+
+
 
 ---
 
