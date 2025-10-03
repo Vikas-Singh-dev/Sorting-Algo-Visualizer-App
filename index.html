@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sorting visualization app</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <div class="nav-container">
+        <h2 class="title" onclick="window.location.reload()">Sorting Visualizer</h2>
+        <div class="navbar">
+            <a id="random" onclick="RenderScreen()">Generate</a>
+            <select class="algo-menu">
+                <option value="0">Algorithm</option>
+                <option value="1">Bubble</option>
+                <option value="2">Selection</option>
+                <option value="3">Insertion</option>
+                <option value="4">Merge</option>
+                <option value="5">Quick</option>
+            </select>
+            <select class="size-menu">
+                <option value="20">20</option>
+                <option value="30">30</option>
+                <option value="40">40</option>
+            </select>
+            <select class="speed-menu">
+                <option value="1">1x</option>
+                <option value="1.5">1.5x</option>
+                <option value="2">2x</option>
+            </select>
+            <a class="start">Sort</a>
+        </div>
+    </div>
+
+    <!-- Sorting Area -->
+
+    <div class="sorting-area array"></div>
+    <div class="complexity" id="complexity">Select an Algorithm to see complexities</div>
+
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>Vikas Singh <i class="fa fa-heart"></i>  |
+            <a href="https://www.linkedin.com/feed/" target="_blank" class="link"><i
+                    class="fa fa-linkedin-square"></i> LinkedIn</a>
+            <a href="https://github.com/YOUR_GITHUB" target="_blank" class="link"><i class="fa fa-github"></i>
+                GitHub</a>
+        </p>
+    </footer>
+
+    <!-- JS -->
+    <script src="script.js"></script>
+</body>
+
+</html>
